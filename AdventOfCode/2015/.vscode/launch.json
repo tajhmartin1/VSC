@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Learning",
+            "request": "launch",
+            "mainClass": "Learning",
+            "projectName": "2015_cac3c940"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day5",
+            "request": "launch",
+            "mainClass": "Day5",
+            "projectName": "2015_cac3c940"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day2",
+            "request": "launch",
+            "mainClass": "Day2",
+            "projectName": "2015_cac3c940"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day1",
+            "request": "launch",
+            "mainClass": "Day1"
+        }
+    ]
+}
